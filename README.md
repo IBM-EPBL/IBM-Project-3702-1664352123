@@ -1,14 +1,12 @@
-![Web 1920 – 4](https://user-images.githubusercontent.com/92677078/190669952-389eafda-3a95-4005-9bf5-4fa1625a7300.png)
-
 # 🏥Hospitals' Health-Care Data
 TECHNOLOGY : Data Analytics <br>
-TEAM ID : PNT2022TMID39750
+TEAM ID : PNT2022TMID04905
 
 ## 👨‍👩‍👦TEAM MEMBERS
- - Kiran Kumar K (TL)
- - Shriprasanna B
- - Praveen N
- - Ram Sanjay S
+ - Ajay S (TL)
+ - Abhinav Murali M
+ - Bhuvaneshwaran A
+ - Abdul Rahim A
 
 ## 📒PROJECT DESCRIPTION:
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare <br>
